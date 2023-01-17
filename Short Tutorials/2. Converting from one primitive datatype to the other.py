@@ -5,7 +5,7 @@
 """
 NOTES
 Previously we learnt about primitive datatypes
-Now we are going to convert one datatype to another, Example Str to Int, Int to float, float to int,etc.
+Now we are going to convert one datatype to another, Example str to int, int to float, float to int,etc.
 
 REASONS TO CONVERT ONE PRIMITIVE DATATYPE TO ANOTHER
     There are many reasons we will want to convert one datatype to another in our programs.
