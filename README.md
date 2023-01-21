@@ -13,6 +13,6 @@ This is just to guide you on how you can go about solving challenges with python
 To run your programs in the command line,
  * Open command line in the directory of your program
  * Then type in
-        $ python <filename>.py
+          $ python <filename>.py
  * Replace *\<filename\>* with the name of the python program
 # HAPPY CODING
